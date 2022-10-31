@@ -44,7 +44,7 @@ except URLError as e:
 
 
 # do not run anything from here below
-streamlit.stop()
+#streamlit.stop()
 
 #Snowflake related functions 
 def get_fruit_load_list():
